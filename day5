@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Road Safety News</title>
+</head>
+
+<body>
+
+  
+  <header>
+        <h1>Road Safety News</h1>
+        <p>Updates About Traffic and Public Safety</p>
+    </header>
+
+    
+    <main>
+
+        
+        <section>
+
+            <h2>Recent Reports</h2>
+
+          
+            <article>
+                <h3>Traffic Accident on Highway</h3>
+
+                <p>
+                    A minor traffic accident caused delays on the highway.
+                    Emergency teams quickly reached the location and cleared the road.
+                </p>
+            </article>
+
+          
+            <article>
+                <h3>Road Safety Awareness Program</h3>
+
+                <p>
+                    Students participated in a road safety campaign to
+                    spread awareness about traffic rules and safe driving.
+                </p>
+            </article>
+
+        </section>
+
+  
+        <aside>
+
+            <h2>Safety Tips</h2>
+
+            <ul>
+                <li>Wear a helmet while riding</li>
+                <li>Follow traffic signals</li>
+                <li>Avoid using phones while driving</li>
+            </ul>
+
+        </aside>
+
+    </main>
+
+
+    <footer>
+        <p>© 2026 Road Safety News</p>
+    </footer>
+
+</body>
+
+</html>
